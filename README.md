@@ -3,6 +3,7 @@
 UI Tier – ASP.net
 App Tier – all business logic, UI and database interaction resides here
 DB Tier – MySQL Community Version
+
 Project: 
 Create a 3-tier online order entry system which has the following:
 (1)	Create User/Password
